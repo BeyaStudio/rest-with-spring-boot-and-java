@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.beyaStudio.model.Greeting;
 
+// Faz com que a classe seja um controlador REST e possa responder a requisições HTTP
 @RestController
 public class GreetingController {
 	
